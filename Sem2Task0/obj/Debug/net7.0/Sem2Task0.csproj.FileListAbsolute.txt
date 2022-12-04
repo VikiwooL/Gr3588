@@ -1,0 +1,15 @@
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\bin\Debug\net7.0\Sem2Task0.exe
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\bin\Debug\net7.0\Sem2Task0.deps.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\bin\Debug\net7.0\Sem2Task0.runtimeconfig.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\bin\Debug\net7.0\Sem2Task0.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\bin\Debug\net7.0\Sem2Task0.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.csproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.AssemblyInfoInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.AssemblyInfo.cs
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\refint\Sem2Task0.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\Sem2Task0.genruntimeconfig.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem2Task0\obj\Debug\net7.0\ref\Sem2Task0.dll
