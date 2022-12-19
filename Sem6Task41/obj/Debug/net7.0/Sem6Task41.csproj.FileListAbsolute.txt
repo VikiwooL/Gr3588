@@ -1,0 +1,15 @@
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.csproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.AssemblyInfoInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.AssemblyInfo.cs
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\bin\Debug\net7.0\Sem6Task41.exe
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\bin\Debug\net7.0\Sem6Task41.deps.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\bin\Debug\net7.0\Sem6Task41.runtimeconfig.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\bin\Debug\net7.0\Sem6Task41.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\bin\Debug\net7.0\Sem6Task41.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\refint\Sem6Task41.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\Sem6Task41.genruntimeconfig.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem6Task41\obj\Debug\net7.0\ref\Sem6Task41.dll
