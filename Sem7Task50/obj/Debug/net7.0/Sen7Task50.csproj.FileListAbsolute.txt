@@ -1,0 +1,15 @@
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.csproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.AssemblyInfoInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.AssemblyInfo.cs
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\bin\Debug\net7.0\Sen7Task50.exe
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\bin\Debug\net7.0\Sen7Task50.deps.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\bin\Debug\net7.0\Sen7Task50.runtimeconfig.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\bin\Debug\net7.0\Sen7Task50.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\bin\Debug\net7.0\Sen7Task50.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\refint\Sen7Task50.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\Sen7Task50.genruntimeconfig.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sen7Task50\obj\Debug\net7.0\ref\Sen7Task50.dll
