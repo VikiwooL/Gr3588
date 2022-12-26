@@ -1,0 +1,15 @@
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\bin\Debug\net7.0\Sem9Task64.exe
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\bin\Debug\net7.0\Sem9Task64.deps.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\bin\Debug\net7.0\Sem9Task64.runtimeconfig.json
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\bin\Debug\net7.0\Sem9Task64.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\bin\Debug\net7.0\Sem9Task64.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.csproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.AssemblyInfoInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.AssemblyInfo.cs
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\refint\Sem9Task64.dll
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.pdb
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\Sem9Task64.genruntimeconfig.cache
+C:\Users\Victoria\Desktop\Gr-rep\Gr3588\Sem9Task64\obj\Debug\net7.0\ref\Sem9Task64.dll
